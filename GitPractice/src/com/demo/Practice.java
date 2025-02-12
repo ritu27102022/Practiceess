@@ -10,6 +10,12 @@ public class Practice
 	{
 		System.out.println("This is multiplication method");
 	}
+	public void div()
+	{
+		System.out.println("This is division method");
+	}
+	
+	
 
 
 	
