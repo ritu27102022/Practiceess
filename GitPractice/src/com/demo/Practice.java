@@ -14,6 +14,11 @@ public class Practice
 	{
 		System.out.println("This is division method");
 	}
+
+	public void sub()
+	{
+		System.out.println("This is substraction method");
+	}
 	
 	
 
